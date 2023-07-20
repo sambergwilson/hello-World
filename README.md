@@ -3,3 +3,5 @@ This is a Demo Repo
 This is me adding Text.
 
 I'm adding some more text to my Git Repo!
+
+This is me editing it in Kraken!
